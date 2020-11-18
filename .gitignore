@@ -52,6 +52,8 @@ user_guide
 !application/third_party/index.html
 
 # Data Ignore
+application/config/config.php
+application/config/database.php
 application/.htaccess
 application/config/autoload.php
 application/config/config.php
